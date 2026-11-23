@@ -1,0 +1,1 @@
+While I played GTA 6 all week, my agent rewrote my app in Rust, deleted the tests it could not understand, and pushed it all as "minor cleanup".
